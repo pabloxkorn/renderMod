@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "verticalculling",
+  "version": "1.0",
+  "name": "Vertical Culling",
+  "description": "No renderiza chunks debajo del jugador",
+  "authors": ["German"],
+  "entrypoints": {
+    "main": [
+      "com.verticalculling.VerticalCullingMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14",
+    "minecraft": "1.19.4"
+  }
+}
